@@ -11,7 +11,7 @@
 #include <windows.h>
 #include <devioctl.h>
 #include <ioapiset.h>
-
+#include <string>
 #include "comm-host.h"
 
 #define INITIAL_UDELAY 5 /* 5 us */
